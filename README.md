@@ -8,3 +8,5 @@ We want to create a simple visual odometry (VO) system which can localize the ca
 4. Account for edge cases, for example if Images are not recieved or is late.
 
 Fork the repository and create a pull request when you are ready to submit.
+
+This purpose of this assessment is to see your coding process, so be sure to commit and push often, good luck!
